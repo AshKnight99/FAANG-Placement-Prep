@@ -4,9 +4,9 @@
 
 ## Topics 
 
-1. ✔️ Array
-2. ✔️ Strings
-3. ✔️ Mathematical
+1.  Array✔️
+2.  Strings✔️
+3.  Mathematical✔️
 4.    Binary Search (Ongoing)
 5.    Recursion
 6.    Linked List
